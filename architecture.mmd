@@ -1,0 +1,19 @@
+flowchart TD
+    A[CDC Public Health API]
+    B[Python Extract]
+    C[Raw JSON Layer]
+    D[Transform & Standardize]
+    E[Data Validation]
+    F[PostgreSQL]
+    G[Business Intelligence]
+    H[Public Health Monitoring]
+    I[Machine Learning]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    F --> H
+    F --> I

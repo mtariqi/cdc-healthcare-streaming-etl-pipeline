@@ -1,0 +1,101 @@
+year,stateabbr,statedesc,locationname,datasource,category,measure,data_value,data_value_unit,data_value_type,low_confidence_limit,high_confidence_limit,totalpopulation,geolocation
+2023,US,United States,nan,BRFSS,Prevention,Current lack of health insurance among adults aged 18-64 years,11.0,%,Crude prevalence,10.7,11.3,334914895,nan
+2023,US,United States,nan,BRFSS,Prevention,Current lack of health insurance among adults aged 18-64 years,11.5,%,Age-adjusted prevalence,11.2,11.9,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,Arthritis among adults,25.4,%,Crude prevalence,25.1,25.6,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,Arthritis among adults,21.9,%,Age-adjusted prevalence,21.6,22.1,334914895,nan
+2023,US,United States,nan,BRFSS,Health Risk Behaviors,Binge drinking among adults,15.2,%,Crude prevalence,15.0,15.5,334914895,nan
+2023,US,United States,nan,BRFSS,Health Risk Behaviors,Binge drinking among adults,16.6,%,Age-adjusted prevalence,16.3,16.9,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,High blood pressure among adults,34.4,%,Crude prevalence,34.0,34.7,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,High blood pressure among adults,30.7,%,Age-adjusted prevalence,30.4,31.0,334914895,nan
+2023,US,United States,nan,BRFSS,Prevention,Taking medicine to control high blood pressure among adults with high blood pressure,77.0,%,Crude prevalence,76.5,77.5,334914895,nan
+2023,US,United States,nan,BRFSS,Prevention,Taking medicine to control high blood pressure among adults with high blood pressure,57.5,%,Age-adjusted prevalence,56.8,58.2,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,Cancer (non-skin) or melanoma among adults,7.9,%,Crude prevalence,7.8,8.1,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,Cancer (non-skin) or melanoma among adults,6.6,%,Age-adjusted prevalence,6.4,6.7,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,Current asthma among adults,9.8,%,Crude prevalence,9.6,10.0,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,Current asthma among adults,9.8,%,Age-adjusted prevalence,9.6,10.0,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,Coronary heart disease among adults,6.4,%,Crude prevalence,6.2,6.5,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,Coronary heart disease among adults,5.3,%,Age-adjusted prevalence,5.2,5.4,334914895,nan
+2023,US,United States,nan,BRFSS,Prevention,Visits to doctor for routine checkup within the past year among adults,77.7,%,Crude prevalence,77.4,78.0,334914895,nan
+2023,US,United States,nan,BRFSS,Prevention,Visits to doctor for routine checkup within the past year among adults,75.7,%,Age-adjusted prevalence,75.4,76.0,334914895,nan
+2023,US,United States,nan,BRFSS,Prevention,Cholesterol screening among adults,87.5,%,Crude prevalence,87.3,87.8,334914895,nan
+2023,US,United States,nan,BRFSS,Prevention,Cholesterol screening among adults,85.6,%,Age-adjusted prevalence,85.3,85.8,334914895,nan
+2023,US,United States,nan,BRFSS,Disability,Cognitive disability among adults,13.7,%,Crude prevalence,13.4,13.9,334914895,nan
+2023,US,United States,nan,BRFSS,Disability,Cognitive disability among adults,14.1,%,Age-adjusted prevalence,13.8,14.3,334914895,nan
+2022,US,United States,nan,BRFSS,Prevention,Colorectal cancer screening among adults aged 45–75 years,66.3,%,Crude prevalence,65.9,66.8,334914895,nan
+2022,US,United States,nan,BRFSS,Prevention,Colorectal cancer screening among adults aged 45–75 years,54.1,%,Age-adjusted prevalence,53.7,54.6,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,Chronic obstructive pulmonary disease among adults,6.2,%,Crude prevalence,6.1,6.3,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,Chronic obstructive pulmonary disease among adults,5.3,%,Age-adjusted prevalence,5.2,5.4,334914895,nan
+2023,US,United States,nan,BRFSS,Health Risk Behaviors,Current cigarette smoking among adults,11.4,%,Crude prevalence,11.2,11.6,334914895,nan
+2023,US,United States,nan,BRFSS,Health Risk Behaviors,Current cigarette smoking among adults,11.6,%,Age-adjusted prevalence,11.4,11.9,334914895,nan
+2022,US,United States,nan,BRFSS,Prevention,Visited dentist or dental clinic in the past year among adults,63.9,%,Crude prevalence,63.6,64.2,334914895,nan
+2022,US,United States,nan,BRFSS,Prevention,Visited dentist or dental clinic in the past year among adults,63.4,%,Age-adjusted prevalence,63.1,63.7,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,Depression among adults,20.2,%,Crude prevalence,19.9,20.5,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,Depression among adults,20.7,%,Age-adjusted prevalence,20.4,21.0,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,Diagnosed diabetes among adults,12.0,%,Crude prevalence,11.8,12.2,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,Diagnosed diabetes among adults,10.3,%,Age-adjusted prevalence,10.1,10.5,334914895,nan
+2023,US,United States,nan,BRFSS,Disability,Any disability among adults,30.0,%,Crude prevalence,29.7,30.3,334914895,nan
+2023,US,United States,nan,BRFSS,Disability,Any disability among adults,28.3,%,Age-adjusted prevalence,28.0,28.7,334914895,nan
+2023,US,United States,nan,BRFSS,Health-Related Social Needs,Lack of social and emotional support among adults,23.3,%,Crude prevalence,23.0,23.7,334914895,nan
+2023,US,United States,nan,BRFSS,Health-Related Social Needs,Lack of social and emotional support among adults,24.1,%,Age-adjusted prevalence,23.7,24.5,334914895,nan
+2023,US,United States,nan,BRFSS,Health-Related Social Needs,Food insecurity in the past 12 months among adults,14.7,%,Crude prevalence,14.4,15.0,334914895,nan
+2023,US,United States,nan,BRFSS,Health-Related Social Needs,Food insecurity in the past 12 months among adults,15.6,%,Age-adjusted prevalence,15.2,15.9,334914895,nan
+2023,US,United States,nan,BRFSS,Health-Related Social Needs,Received food stamps in the past 12 months among adults,11.2,%,Crude prevalence,10.9,11.4,334914895,nan
+2023,US,United States,nan,BRFSS,Health-Related Social Needs,Received food stamps in the past 12 months among adults,11.8,%,Age-adjusted prevalence,11.5,12.1,334914895,nan
+2023,US,United States,nan,BRFSS,Health Status,Fair or poor self-rated health status among adults,19.2,%,Crude prevalence,18.9,19.5,334914895,nan
+2023,US,United States,nan,BRFSS,Health Status,Fair or poor self-rated health status among adults,18.3,%,Age-adjusted prevalence,18.0,18.6,334914895,nan
+2023,US,United States,nan,BRFSS,Disability,Hearing disability among adults,6.7,%,Crude prevalence,6.6,6.9,334914895,nan
+2023,US,United States,nan,BRFSS,Disability,Hearing disability among adults,5.8,%,Age-adjusted prevalence,5.7,6.0,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,High cholesterol among adults who have ever been screened,37.4,%,Crude prevalence,37.1,37.8,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,High cholesterol among adults who have ever been screened,32.2,%,Age-adjusted prevalence,31.9,32.6,334914895,nan
+2023,US,United States,nan,BRFSS,Health-Related Social Needs,Housing insecurity in the past 12 months among adults,11.7,%,Crude prevalence,11.5,12.0,334914895,nan
+2023,US,United States,nan,BRFSS,Health-Related Social Needs,Housing insecurity in the past 12 months among adults,12.9,%,Age-adjusted prevalence,12.6,13.2,334914895,nan
+2023,US,United States,nan,BRFSS,Disability,Independent living disability among adults,7.9,%,Crude prevalence,7.7,8.1,334914895,nan
+2023,US,United States,nan,BRFSS,Disability,Independent living disability among adults,7.6,%,Age-adjusted prevalence,7.4,7.8,334914895,nan
+2023,US,United States,nan,BRFSS,Health-Related Social Needs,Lack of reliable transportation in the past 12 months among adults,7.7,%,Crude prevalence,7.5,7.9,334914895,nan
+2023,US,United States,nan,BRFSS,Health-Related Social Needs,Lack of reliable transportation in the past 12 months among adults,8.3,%,Age-adjusted prevalence,8.0,8.5,334914895,nan
+2023,US,United States,nan,BRFSS,Health-Related Social Needs,Loneliness among adults,32.0,%,Crude prevalence,31.6,32.4,334914895,nan
+2023,US,United States,nan,BRFSS,Health-Related Social Needs,Loneliness among adults,33.2,%,Age-adjusted prevalence,32.8,33.6,334914895,nan
+2023,US,United States,nan,BRFSS,Health Risk Behaviors,No leisure-time physical activity among adults,24.5,%,Crude prevalence,24.2,24.8,334914895,nan
+2023,US,United States,nan,BRFSS,Health Risk Behaviors,No leisure-time physical activity among adults,23.7,%,Age-adjusted prevalence,23.4,24.0,334914895,nan
+2022,US,United States,nan,BRFSS,Prevention,Mammography use among women aged 50-74 years,76.5,%,Crude prevalence,75.9,77.1,334914895,nan
+2022,US,United States,nan,BRFSS,Prevention,Mammography use among women aged 50-74 years,76.0,%,Age-adjusted prevalence,75.4,76.7,334914895,nan
+2023,US,United States,nan,BRFSS,Health Status,Frequent mental distress among adults,15.6,%,Crude prevalence,15.3,15.8,334914895,nan
+2023,US,United States,nan,BRFSS,Health Status,Frequent mental distress among adults,16.3,%,Age-adjusted prevalence,16.0,16.6,334914895,nan
+2023,US,United States,nan,BRFSS,Disability,Mobility disability among adults,13.5,%,Crude prevalence,13.3,13.7,334914895,nan
+2023,US,United States,nan,BRFSS,Disability,Mobility disability among adults,11.7,%,Age-adjusted prevalence,11.5,11.9,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,Obesity among adults,32.8,%,Crude prevalence,32.4,33.1,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,Obesity among adults,32.9,%,Age-adjusted prevalence,32.5,33.2,334914895,nan
+2023,US,United States,nan,BRFSS,Health Status,Frequent physical distress among adults,12.8,%,Crude prevalence,12.6,13.0,334914895,nan
+2023,US,United States,nan,BRFSS,Health Status,Frequent physical distress among adults,12.1,%,Age-adjusted prevalence,11.8,12.3,334914895,nan
+2023,US,United States,nan,BRFSS,Disability,Self-care disability among adults,3.8,%,Crude prevalence,3.6,3.9,334914895,nan
+2023,US,United States,nan,BRFSS,Disability,Self-care disability among adults,3.4,%,Age-adjusted prevalence,3.3,3.6,334914895,nan
+2023,US,United States,nan,BRFSS,Health-Related Social Needs,Utility services shut-off threat in the past 12 months among adults,7.4,%,Crude prevalence,7.2,7.6,334914895,nan
+2023,US,United States,nan,BRFSS,Health-Related Social Needs,Utility services shut-off threat in the past 12 months among adults,8.1,%,Age-adjusted prevalence,7.9,8.4,334914895,nan
+2022,US,United States,nan,BRFSS,Health Risk Behaviors,Short sleep duration among adults,36.0,%,Crude prevalence,35.7,36.3,334914895,nan
+2022,US,United States,nan,BRFSS,Health Risk Behaviors,Short sleep duration among adults,36.8,%,Age-adjusted prevalence,36.5,37.2,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,Stroke among adults,3.4,%,Crude prevalence,3.3,3.5,334914895,nan
+2023,US,United States,nan,BRFSS,Health Outcomes,Stroke among adults,2.9,%,Age-adjusted prevalence,2.8,3.0,334914895,nan
+2022,US,United States,nan,BRFSS,Health Outcomes,All teeth lost among adults aged >=65 years,12.2,%,Crude prevalence,11.8,12.6,334914895,nan
+2022,US,United States,nan,BRFSS,Health Outcomes,All teeth lost among adults aged >=65 years,12.6,%,Age-adjusted prevalence,12.2,13.0,334914895,nan
+2023,US,United States,nan,BRFSS,Disability,Vision disability among adults,5.5,%,Crude prevalence,5.4,5.7,334914895,nan
+2023,US,United States,nan,BRFSS,Disability,Vision disability among adults,5.2,%,Age-adjusted prevalence,5.1,5.4,334914895,nan
+2023,AL,Alabama,Autauga,BRFSS,Prevention,Current lack of health insurance among adults aged 18-64 years,8.8,%,Crude prevalence,6.9,11.2,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"
+2023,AL,Alabama,Autauga,BRFSS,Prevention,Current lack of health insurance among adults aged 18-64 years,9.1,%,Age-adjusted prevalence,7.2,11.7,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"
+2023,AL,Alabama,Autauga,BRFSS,Health Outcomes,Arthritis among adults,30.0,%,Crude prevalence,26.5,33.4,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"
+2023,AL,Alabama,Autauga,BRFSS,Health Outcomes,Arthritis among adults,26.3,%,Age-adjusted prevalence,23.1,29.4,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"
+2023,AL,Alabama,Autauga,BRFSS,Health Risk Behaviors,Binge drinking among adults,14.3,%,Crude prevalence,11.6,17.3,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"
+2023,AL,Alabama,Autauga,BRFSS,Health Risk Behaviors,Binge drinking among adults,15.6,%,Age-adjusted prevalence,12.6,18.7,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"
+2023,AL,Alabama,Autauga,BRFSS,Health Outcomes,High blood pressure among adults,42.0,%,Crude prevalence,37.7,46.2,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"
+2023,AL,Alabama,Autauga,BRFSS,Health Outcomes,High blood pressure among adults,38.2,%,Age-adjusted prevalence,33.9,42.4,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"
+2023,AL,Alabama,Autauga,BRFSS,Prevention,Taking medicine to control high blood pressure among adults with high blood pressure,78.2,%,Crude prevalence,75.3,80.9,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"
+2023,AL,Alabama,Autauga,BRFSS,Prevention,Taking medicine to control high blood pressure among adults with high blood pressure,61.7,%,Age-adjusted prevalence,57.1,66.0,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"
+2023,AL,Alabama,Autauga,BRFSS,Health Outcomes,Cancer (non-skin) or melanoma among adults,8.3,%,Crude prevalence,7.4,9.1,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"
+2023,AL,Alabama,Autauga,BRFSS,Health Outcomes,Cancer (non-skin) or melanoma among adults,7.0,%,Age-adjusted prevalence,6.2,7.7,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"
+2023,AL,Alabama,Autauga,BRFSS,Health Outcomes,Current asthma among adults,10.0,%,Crude prevalence,8.7,11.3,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"
+2023,AL,Alabama,Autauga,BRFSS,Health Outcomes,Current asthma among adults,10.0,%,Age-adjusted prevalence,8.8,11.4,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"
+2023,AL,Alabama,Autauga,BRFSS,Health Outcomes,Coronary heart disease among adults,6.7,%,Crude prevalence,5.9,7.6,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"
+2023,AL,Alabama,Autauga,BRFSS,Health Outcomes,Coronary heart disease among adults,5.6,%,Age-adjusted prevalence,4.9,6.4,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"
+2023,AL,Alabama,Autauga,BRFSS,Prevention,Visits to doctor for routine checkup within the past year among adults,81.0,%,Crude prevalence,77.5,84.2,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"
+2023,AL,Alabama,Autauga,BRFSS,Prevention,Visits to doctor for routine checkup within the past year among adults,79.4,%,Age-adjusted prevalence,75.6,82.8,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"
+2023,AL,Alabama,Autauga,BRFSS,Prevention,Cholesterol screening among adults,86.8,%,Crude prevalence,84.7,88.8,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"
+2023,AL,Alabama,Autauga,BRFSS,Prevention,Cholesterol screening among adults,85.0,%,Age-adjusted prevalence,82.5,87.4,60342,"{'type': 'Point', 'coordinates': [-86.6428164158396, 32.5350016195151]}"

@@ -1,0 +1,727 @@
+year,stateabbr,statedesc,locationname,measure,data_value
+2023,AL,Alabama,Baldwin,Cholesterol screening among adults,87.9
+2023,AL,Alabama,Baldwin,Cholesterol screening among adults,87.9
+2023,US,United States,nan,Cholesterol screening among adults,87.5
+2023,US,United States,nan,Cholesterol screening among adults,87.5
+2023,US,United States,nan,Cholesterol screening among adults,87.5
+2023,AL,Alabama,Autauga,Cholesterol screening among adults,86.8
+2023,AL,Alabama,Autauga,Cholesterol screening among adults,86.8
+2023,AL,Alabama,Choctaw,Cholesterol screening among adults,86.8
+2023,AL,Alabama,Autauga,Cholesterol screening among adults,86.8
+2023,AL,Alabama,Choctaw,Cholesterol screening among adults,86.8
+2023,AL,Alabama,Cherokee,Cholesterol screening among adults,86.4
+2023,AL,Alabama,Cherokee,Cholesterol screening among adults,86.4
+2023,AL,Alabama,Butler,Cholesterol screening among adults,86.1
+2023,AL,Alabama,Butler,Cholesterol screening among adults,86.1
+2023,AL,Alabama,Chambers,Cholesterol screening among adults,85.9
+2023,AL,Alabama,Chambers,Cholesterol screening among adults,85.9
+2023,US,United States,nan,Cholesterol screening among adults,85.6
+2023,US,United States,nan,Cholesterol screening among adults,85.6
+2023,US,United States,nan,Cholesterol screening among adults,85.6
+2023,AL,Alabama,Autauga,Cholesterol screening among adults,85.0
+2023,AL,Alabama,Blount,Cholesterol screening among adults,85.0
+2023,AL,Alabama,Autauga,Cholesterol screening among adults,85.0
+2023,AL,Alabama,Autauga,Cholesterol screening among adults,85.0
+2023,AL,Alabama,Blount,Cholesterol screening among adults,85.0
+2023,AL,Alabama,Baldwin,Cholesterol screening among adults,84.9
+2023,AL,Alabama,Baldwin,Cholesterol screening among adults,84.9
+2023,AL,Alabama,Chilton,Cholesterol screening among adults,84.8
+2023,AL,Alabama,Chilton,Cholesterol screening among adults,84.8
+2023,AL,Alabama,Calhoun,Cholesterol screening among adults,84.7
+2023,AL,Alabama,Calhoun,Cholesterol screening among adults,84.7
+2023,AL,Alabama,Barbour,Cholesterol screening among adults,84.2
+2023,AL,Alabama,Barbour,Cholesterol screening among adults,84.2
+2023,AL,Alabama,Bibb,Cholesterol screening among adults,83.6
+2023,AL,Alabama,Bibb,Cholesterol screening among adults,83.6
+2023,AL,Alabama,Calhoun,Cholesterol screening among adults,83.4
+2023,AL,Alabama,Calhoun,Cholesterol screening among adults,83.4
+2023,AL,Alabama,Choctaw,Visits to doctor for routine checkup within the past year among adults,83.3
+2023,AL,Alabama,Choctaw,Visits to doctor for routine checkup within the past year among adults,83.3
+2023,AL,Alabama,Chambers,Cholesterol screening among adults,83.2
+2023,AL,Alabama,Butler,Cholesterol screening among adults,83.2
+2023,AL,Alabama,Butler,Cholesterol screening among adults,83.2
+2023,AL,Alabama,Chambers,Cholesterol screening among adults,83.2
+2023,AL,Alabama,Chilton,Cholesterol screening among adults,82.9
+2023,AL,Alabama,Chilton,Cholesterol screening among adults,82.9
+2023,AL,Alabama,Choctaw,Taking medicine to control high blood pressure among adults with high blood pressure,82.8
+2023,AL,Alabama,Choctaw,Taking medicine to control high blood pressure among adults with high blood pressure,82.8
+2023,AL,Alabama,Butler,Visits to doctor for routine checkup within the past year among adults,82.8
+2023,AL,Alabama,Choctaw,Cholesterol screening among adults,82.8
+2023,AL,Alabama,Butler,Visits to doctor for routine checkup within the past year among adults,82.8
+2023,AL,Alabama,Choctaw,Cholesterol screening among adults,82.8
+2023,AL,Alabama,Bullock,Cholesterol screening among adults,82.6
+2023,AL,Alabama,Bullock,Cholesterol screening among adults,82.6
+2023,AL,Alabama,Blount,Cholesterol screening among adults,82.4
+2023,AL,Alabama,Blount,Cholesterol screening among adults,82.4
+2023,AL,Alabama,Cherokee,Cholesterol screening among adults,82.2
+2023,AL,Alabama,Cherokee,Cholesterol screening among adults,82.2
+2023,AL,Alabama,Bullock,Visits to doctor for routine checkup within the past year among adults,82.1
+2023,AL,Alabama,Bullock,Visits to doctor for routine checkup within the past year among adults,82.1
+2023,AL,Alabama,Barbour,Cholesterol screening among adults,81.7
+2023,AL,Alabama,Barbour,Cholesterol screening among adults,81.7
+2023,AL,Alabama,Bibb,Cholesterol screening among adults,81.5
+2023,AL,Alabama,Bibb,Cholesterol screening among adults,81.5
+2023,AL,Alabama,Chambers,Visits to doctor for routine checkup within the past year among adults,81.5
+2023,AL,Alabama,Chambers,Visits to doctor for routine checkup within the past year among adults,81.5
+2023,AL,Alabama,Barbour,Visits to doctor for routine checkup within the past year among adults,81.4
+2023,AL,Alabama,Barbour,Visits to doctor for routine checkup within the past year among adults,81.4
+2023,AL,Alabama,Cherokee,Taking medicine to control high blood pressure among adults with high blood pressure,81.1
+2023,AL,Alabama,Cherokee,Taking medicine to control high blood pressure among adults with high blood pressure,81.1
+2023,AL,Alabama,Butler,Taking medicine to control high blood pressure among adults with high blood pressure,81.1
+2023,AL,Alabama,Butler,Taking medicine to control high blood pressure among adults with high blood pressure,81.1
+2023,AL,Alabama,Autauga,Visits to doctor for routine checkup within the past year among adults,81.0
+2023,AL,Alabama,Autauga,Visits to doctor for routine checkup within the past year among adults,81.0
+2023,AL,Alabama,Autauga,Visits to doctor for routine checkup within the past year among adults,81.0
+2022,AL,Alabama,Autauga,Mammography use among women aged 50-74 years,80.9
+2022,AL,Alabama,Autauga,Mammography use among women aged 50-74 years,80.9
+2023,AL,Alabama,Baldwin,Visits to doctor for routine checkup within the past year among adults,80.7
+2022,AL,Alabama,Autauga,Mammography use among women aged 50-74 years,80.7
+2022,AL,Alabama,Autauga,Mammography use among women aged 50-74 years,80.7
+2023,AL,Alabama,Baldwin,Visits to doctor for routine checkup within the past year among adults,80.7
+2023,AL,Alabama,Cherokee,Visits to doctor for routine checkup within the past year among adults,80.4
+2023,AL,Alabama,Cherokee,Visits to doctor for routine checkup within the past year among adults,80.4
+2023,AL,Alabama,Bullock,Visits to doctor for routine checkup within the past year among adults,80.3
+2023,AL,Alabama,Bullock,Visits to doctor for routine checkup within the past year among adults,80.3
+2023,AL,Alabama,Bullock,Cholesterol screening among adults,80.2
+2023,AL,Alabama,Bullock,Cholesterol screening among adults,80.2
+2023,AL,Alabama,Butler,Visits to doctor for routine checkup within the past year among adults,80.1
+2023,AL,Alabama,Butler,Visits to doctor for routine checkup within the past year among adults,80.1
+2023,AL,Alabama,Chambers,Taking medicine to control high blood pressure among adults with high blood pressure,79.9
+2023,AL,Alabama,Chambers,Taking medicine to control high blood pressure among adults with high blood pressure,79.9
+2023,AL,Alabama,Bullock,Taking medicine to control high blood pressure among adults with high blood pressure,79.7
+2023,AL,Alabama,Bullock,Taking medicine to control high blood pressure among adults with high blood pressure,79.7
+2023,AL,Alabama,Choctaw,Visits to doctor for routine checkup within the past year among adults,79.6
+2023,AL,Alabama,Choctaw,Visits to doctor for routine checkup within the past year among adults,79.6
+2023,AL,Alabama,Blount,Visits to doctor for routine checkup within the past year among adults,79.5
+2023,AL,Alabama,Blount,Visits to doctor for routine checkup within the past year among adults,79.5
+2023,AL,Alabama,Autauga,Visits to doctor for routine checkup within the past year among adults,79.4
+2023,AL,Alabama,Autauga,Visits to doctor for routine checkup within the past year among adults,79.4
+2023,AL,Alabama,Autauga,Visits to doctor for routine checkup within the past year among adults,79.4
+2023,AL,Alabama,Barbour,Visits to doctor for routine checkup within the past year among adults,79.3
+2023,AL,Alabama,Calhoun,Visits to doctor for routine checkup within the past year among adults,79.3
+2023,AL,Alabama,Barbour,Visits to doctor for routine checkup within the past year among adults,79.3
+2023,AL,Alabama,Calhoun,Visits to doctor for routine checkup within the past year among adults,79.3
+2023,AL,Alabama,Baldwin,Taking medicine to control high blood pressure among adults with high blood pressure,79.2
+2023,AL,Alabama,Barbour,Taking medicine to control high blood pressure among adults with high blood pressure,79.2
+2023,AL,Alabama,Bibb,Visits to doctor for routine checkup within the past year among adults,79.2
+2023,AL,Alabama,Barbour,Taking medicine to control high blood pressure among adults with high blood pressure,79.2
+2023,AL,Alabama,Bibb,Visits to doctor for routine checkup within the past year among adults,79.2
+2023,AL,Alabama,Baldwin,Taking medicine to control high blood pressure among adults with high blood pressure,79.2
+2023,AL,Alabama,Chilton,Visits to doctor for routine checkup within the past year among adults,79.0
+2023,AL,Alabama,Chilton,Visits to doctor for routine checkup within the past year among adults,79.0
+2023,AL,Alabama,Chambers,Visits to doctor for routine checkup within the past year among adults,78.9
+2023,AL,Alabama,Chambers,Visits to doctor for routine checkup within the past year among adults,78.9
+2023,AL,Alabama,Blount,Taking medicine to control high blood pressure among adults with high blood pressure,78.3
+2023,AL,Alabama,Blount,Taking medicine to control high blood pressure among adults with high blood pressure,78.3
+2023,AL,Alabama,Autauga,Taking medicine to control high blood pressure among adults with high blood pressure,78.2
+2023,AL,Alabama,Autauga,Taking medicine to control high blood pressure among adults with high blood pressure,78.2
+2023,AL,Alabama,Autauga,Taking medicine to control high blood pressure among adults with high blood pressure,78.2
+2023,US,United States,nan,Visits to doctor for routine checkup within the past year among adults,77.7
+2023,US,United States,nan,Visits to doctor for routine checkup within the past year among adults,77.7
+2023,US,United States,nan,Visits to doctor for routine checkup within the past year among adults,77.7
+2023,AL,Alabama,Calhoun,Visits to doctor for routine checkup within the past year among adults,77.6
+2023,AL,Alabama,Calhoun,Visits to doctor for routine checkup within the past year among adults,77.6
+2023,AL,Alabama,Chilton,Taking medicine to control high blood pressure among adults with high blood pressure,77.5
+2023,AL,Alabama,Baldwin,Visits to doctor for routine checkup within the past year among adults,77.5
+2023,AL,Alabama,Chilton,Taking medicine to control high blood pressure among adults with high blood pressure,77.5
+2023,AL,Alabama,Baldwin,Visits to doctor for routine checkup within the past year among adults,77.5
+2023,AL,Alabama,Bibb,Taking medicine to control high blood pressure among adults with high blood pressure,77.4
+2023,AL,Alabama,Bibb,Taking medicine to control high blood pressure among adults with high blood pressure,77.4
+2023,AL,Alabama,Bibb,Visits to doctor for routine checkup within the past year among adults,77.3
+2023,AL,Alabama,Bibb,Visits to doctor for routine checkup within the past year among adults,77.3
+2023,AL,Alabama,Calhoun,Taking medicine to control high blood pressure among adults with high blood pressure,77.1
+2023,AL,Alabama,Chilton,Visits to doctor for routine checkup within the past year among adults,77.1
+2023,AL,Alabama,Calhoun,Taking medicine to control high blood pressure among adults with high blood pressure,77.1
+2023,AL,Alabama,Chilton,Visits to doctor for routine checkup within the past year among adults,77.1
+2023,US,United States,nan,Taking medicine to control high blood pressure among adults with high blood pressure,77.0
+2023,AL,Alabama,Blount,Visits to doctor for routine checkup within the past year among adults,77.0
+2022,AL,Alabama,Chambers,Mammography use among women aged 50-74 years,77.0
+2022,AL,Alabama,Chambers,Mammography use among women aged 50-74 years,77.0
+2023,US,United States,nan,Taking medicine to control high blood pressure among adults with high blood pressure,77.0
+2023,US,United States,nan,Taking medicine to control high blood pressure among adults with high blood pressure,77.0
+2023,AL,Alabama,Blount,Visits to doctor for routine checkup within the past year among adults,77.0
+2023,US,United States,,Taking medicine to control high blood pressure among adults with high blood pressure,77.0
+2022,AL,Alabama,Butler,Mammography use among women aged 50-74 years,76.9
+2022,AL,Alabama,Butler,Mammography use among women aged 50-74 years,76.9
+2022,US,United States,nan,Mammography use among women aged 50-74 years,76.5
+2022,US,United States,nan,Mammography use among women aged 50-74 years,76.5
+2022,US,United States,nan,Mammography use among women aged 50-74 years,76.5
+2022,AL,Alabama,Butler,Mammography use among women aged 50-74 years,76.4
+2022,AL,Alabama,Butler,Mammography use among women aged 50-74 years,76.4
+2022,AL,Alabama,Calhoun,Mammography use among women aged 50-74 years,76.3
+2022,AL,Alabama,Calhoun,Mammography use among women aged 50-74 years,76.3
+2023,AL,Alabama,Cherokee,Visits to doctor for routine checkup within the past year among adults,76.3
+2023,AL,Alabama,Cherokee,Visits to doctor for routine checkup within the past year among adults,76.3
+2022,AL,Alabama,Calhoun,Mammography use among women aged 50-74 years,76.2
+2022,AL,Alabama,Calhoun,Mammography use among women aged 50-74 years,76.2
+2022,AL,Alabama,Chambers,Mammography use among women aged 50-74 years,76.1
+2022,AL,Alabama,Chambers,Mammography use among women aged 50-74 years,76.1
+2022,US,United States,nan,Mammography use among women aged 50-74 years,76.0
+2022,US,United States,nan,Mammography use among women aged 50-74 years,76.0
+2022,US,United States,nan,Mammography use among women aged 50-74 years,76.0
+2023,US,United States,nan,Visits to doctor for routine checkup within the past year among adults,75.7
+2023,US,United States,nan,Visits to doctor for routine checkup within the past year among adults,75.7
+2022,AL,Alabama,Baldwin,Mammography use among women aged 50-74 years,75.7
+2023,US,United States,nan,Visits to doctor for routine checkup within the past year among adults,75.7
+2022,AL,Alabama,Baldwin,Mammography use among women aged 50-74 years,75.7
+2022,AL,Alabama,Barbour,Mammography use among women aged 50-74 years,75.5
+2022,AL,Alabama,Bullock,Mammography use among women aged 50-74 years,75.5
+2022,AL,Alabama,Bullock,Mammography use among women aged 50-74 years,75.5
+2022,AL,Alabama,Barbour,Mammography use among women aged 50-74 years,75.5
+2022,AL,Alabama,Cherokee,Mammography use among women aged 50-74 years,75.3
+2022,AL,Alabama,Cherokee,Mammography use among women aged 50-74 years,75.3
+2022,AL,Alabama,Bullock,Mammography use among women aged 50-74 years,74.8
+2022,AL,Alabama,Barbour,Mammography use among women aged 50-74 years,74.8
+2022,AL,Alabama,Barbour,Mammography use among women aged 50-74 years,74.8
+2022,AL,Alabama,Bullock,Mammography use among women aged 50-74 years,74.8
+2022,AL,Alabama,Cherokee,Mammography use among women aged 50-74 years,74.3
+2022,AL,Alabama,Cherokee,Mammography use among women aged 50-74 years,74.3
+2022,AL,Alabama,Baldwin,Mammography use among women aged 50-74 years,74.1
+2022,AL,Alabama,Baldwin,Mammography use among women aged 50-74 years,74.1
+2022,AL,Alabama,Chilton,Mammography use among women aged 50-74 years,73.8
+2022,AL,Alabama,Chilton,Mammography use among women aged 50-74 years,73.8
+2022,AL,Alabama,Chilton,Mammography use among women aged 50-74 years,73.5
+2022,AL,Alabama,Chilton,Mammography use among women aged 50-74 years,73.5
+2022,AL,Alabama,Blount,Mammography use among women aged 50-74 years,70.7
+2022,AL,Alabama,Blount,Mammography use among women aged 50-74 years,70.7
+2022,AL,Alabama,Blount,Mammography use among women aged 50-74 years,69.6
+2022,AL,Alabama,Cherokee,Colorectal cancer screening among adults aged 45–75 years,69.6
+2022,AL,Alabama,Cherokee,Colorectal cancer screening among adults aged 45–75 years,69.6
+2022,AL,Alabama,Blount,Mammography use among women aged 50-74 years,69.6
+2022,AL,Alabama,Bibb,Mammography use among women aged 50-74 years,69.5
+2022,AL,Alabama,Bibb,Mammography use among women aged 50-74 years,69.5
+2022,AL,Alabama,Baldwin,Colorectal cancer screening among adults aged 45–75 years,69.3
+2022,AL,Alabama,Baldwin,Colorectal cancer screening among adults aged 45–75 years,69.3
+2022,AL,Alabama,Bibb,Mammography use among women aged 50-74 years,69.2
+2022,AL,Alabama,Bibb,Mammography use among women aged 50-74 years,69.2
+2022,AL,Alabama,Autauga,Colorectal cancer screening among adults aged 45–75 years,68.2
+2022,AL,Alabama,Autauga,Colorectal cancer screening among adults aged 45–75 years,68.2
+2022,AL,Alabama,Choctaw,Colorectal cancer screening among adults aged 45–75 years,67.3
+2022,AL,Alabama,Choctaw,Colorectal cancer screening among adults aged 45–75 years,67.3
+2023,AL,Alabama,Bullock,Taking medicine to control high blood pressure among adults with high blood pressure,66.4
+2023,AL,Alabama,Bullock,Taking medicine to control high blood pressure among adults with high blood pressure,66.4
+2022,US,United States,nan,Colorectal cancer screening among adults aged 45–75 years,66.3
+2022,US,United States,nan,Colorectal cancer screening among adults aged 45–75 years,66.3
+2022,US,United States,nan,Colorectal cancer screening among adults aged 45–75 years,66.3
+2022,AL,Alabama,Blount,Colorectal cancer screening among adults aged 45–75 years,65.8
+2022,AL,Alabama,Blount,Colorectal cancer screening among adults aged 45–75 years,65.8
+2022,AL,Alabama,Butler,Colorectal cancer screening among adults aged 45–75 years,65.5
+2022,AL,Alabama,Butler,Colorectal cancer screening among adults aged 45–75 years,65.5
+2022,AL,Alabama,Chambers,Colorectal cancer screening among adults aged 45–75 years,65.1
+2022,AL,Alabama,Calhoun,Colorectal cancer screening among adults aged 45–75 years,65.1
+2022,AL,Alabama,Chambers,Colorectal cancer screening among adults aged 45–75 years,65.1
+2022,AL,Alabama,Calhoun,Colorectal cancer screening among adults aged 45–75 years,65.1
+2022,AL,Alabama,Chilton,Colorectal cancer screening among adults aged 45–75 years,65.0
+2022,AL,Alabama,Chilton,Colorectal cancer screening among adults aged 45–75 years,65.0
+2023,AL,Alabama,Butler,Taking medicine to control high blood pressure among adults with high blood pressure,64.7
+2023,AL,Alabama,Butler,Taking medicine to control high blood pressure among adults with high blood pressure,64.7
+2022,AL,Alabama,Autauga,Colorectal cancer screening among adults aged 45–75 years,64.6
+2022,AL,Alabama,Autauga,Colorectal cancer screening among adults aged 45–75 years,64.6
+2023,AL,Alabama,Choctaw,Taking medicine to control high blood pressure among adults with high blood pressure,64.0
+2023,AL,Alabama,Choctaw,Taking medicine to control high blood pressure among adults with high blood pressure,64.0
+2022,US,United States,nan,Visited dentist or dental clinic in the past year among adults,63.9
+2022,US,United States,nan,Visited dentist or dental clinic in the past year among adults,63.9
+2023,AL,Alabama,Barbour,Taking medicine to control high blood pressure among adults with high blood pressure,63.9
+2023,AL,Alabama,Barbour,Taking medicine to control high blood pressure among adults with high blood pressure,63.9
+2022,US,United States,nan,Visited dentist or dental clinic in the past year among adults,63.9
+2022,AL,Alabama,Baldwin,Visited dentist or dental clinic in the past year among adults,63.7
+2022,AL,Alabama,Baldwin,Visited dentist or dental clinic in the past year among adults,63.7
+2022,US,United States,nan,Visited dentist or dental clinic in the past year among adults,63.4
+2022,US,United States,nan,Visited dentist or dental clinic in the past year among adults,63.4
+2022,US,United States,nan,Visited dentist or dental clinic in the past year among adults,63.4
+2022,AL,Alabama,Baldwin,Colorectal cancer screening among adults aged 45–75 years,62.9
+2022,AL,Alabama,Baldwin,Colorectal cancer screening among adults aged 45–75 years,62.9
+2022,AL,Alabama,Cherokee,Colorectal cancer screening among adults aged 45–75 years,62.8
+2022,AL,Alabama,Bibb,Colorectal cancer screening among adults aged 45–75 years,62.8
+2022,AL,Alabama,Bibb,Colorectal cancer screening among adults aged 45–75 years,62.8
+2022,AL,Alabama,Cherokee,Colorectal cancer screening among adults aged 45–75 years,62.8
+2023,AL,Alabama,Chambers,Taking medicine to control high blood pressure among adults with high blood pressure,62.6
+2022,AL,Alabama,Barbour,Colorectal cancer screening among adults aged 45–75 years,62.6
+2023,AL,Alabama,Chambers,Taking medicine to control high blood pressure among adults with high blood pressure,62.6
+2022,AL,Alabama,Barbour,Colorectal cancer screening among adults aged 45–75 years,62.6
+2022,AL,Alabama,Baldwin,Visited dentist or dental clinic in the past year among adults,62.4
+2022,AL,Alabama,Baldwin,Visited dentist or dental clinic in the past year among adults,62.4
+2022,AL,Alabama,Autauga,Visited dentist or dental clinic in the past year among adults,61.9
+2022,AL,Alabama,Autauga,Visited dentist or dental clinic in the past year among adults,61.9
+2022,AL,Alabama,Autauga,Visited dentist or dental clinic in the past year among adults,61.9
+2022,AL,Alabama,Autauga,Visited dentist or dental clinic in the past year among adults,61.9
+2023,AL,Alabama,Autauga,Taking medicine to control high blood pressure among adults with high blood pressure,61.7
+2023,AL,Alabama,Autauga,Taking medicine to control high blood pressure among adults with high blood pressure,61.7
+2023,AL,Alabama,Autauga,Taking medicine to control high blood pressure among adults with high blood pressure,61.7
+2023,AL,Alabama,Bibb,Taking medicine to control high blood pressure among adults with high blood pressure,61.6
+2023,AL,Alabama,Bibb,Taking medicine to control high blood pressure among adults with high blood pressure,61.6
+2022,AL,Alabama,Blount,Colorectal cancer screening among adults aged 45–75 years,61.2
+2022,AL,Alabama,Blount,Colorectal cancer screening among adults aged 45–75 years,61.2
+2023,AL,Alabama,Calhoun,Taking medicine to control high blood pressure among adults with high blood pressure,61.1
+2023,AL,Alabama,Calhoun,Taking medicine to control high blood pressure among adults with high blood pressure,61.1
+2023,AL,Alabama,Chilton,Taking medicine to control high blood pressure among adults with high blood pressure,60.1
+2023,AL,Alabama,Chilton,Taking medicine to control high blood pressure among adults with high blood pressure,60.1
+2023,AL,Alabama,Cherokee,Taking medicine to control high blood pressure among adults with high blood pressure,59.8
+2023,AL,Alabama,Cherokee,Taking medicine to control high blood pressure among adults with high blood pressure,59.8
+2022,AL,Alabama,Calhoun,Colorectal cancer screening among adults aged 45–75 years,59.6
+2022,AL,Alabama,Calhoun,Colorectal cancer screening among adults aged 45–75 years,59.6
+2022,AL,Alabama,Chilton,Colorectal cancer screening among adults aged 45–75 years,59.4
+2022,AL,Alabama,Chilton,Colorectal cancer screening among adults aged 45–75 years,59.4
+2022,AL,Alabama,Chambers,Colorectal cancer screening among adults aged 45–75 years,59.4
+2022,AL,Alabama,Chambers,Colorectal cancer screening among adults aged 45–75 years,59.4
+2022,AL,Alabama,Butler,Colorectal cancer screening among adults aged 45–75 years,59.4
+2022,AL,Alabama,Choctaw,Colorectal cancer screening among adults aged 45–75 years,59.4
+2022,AL,Alabama,Choctaw,Colorectal cancer screening among adults aged 45–75 years,59.4
+2022,AL,Alabama,Butler,Colorectal cancer screening among adults aged 45–75 years,59.4
+2022,AL,Alabama,Chilton,Visited dentist or dental clinic in the past year among adults,59.2
+2022,AL,Alabama,Chilton,Visited dentist or dental clinic in the past year among adults,59.2
+2023,AL,Alabama,Baldwin,Taking medicine to control high blood pressure among adults with high blood pressure,59.1
+2023,AL,Alabama,Baldwin,Taking medicine to control high blood pressure among adults with high blood pressure,59.1
+2022,AL,Alabama,Chilton,Visited dentist or dental clinic in the past year among adults,59.0
+2022,AL,Alabama,Chilton,Visited dentist or dental clinic in the past year among adults,59.0
+2022,AL,Alabama,Bibb,Colorectal cancer screening among adults aged 45–75 years,58.9
+2023,AL,Alabama,Blount,Taking medicine to control high blood pressure among adults with high blood pressure,58.9
+2023,AL,Alabama,Blount,Taking medicine to control high blood pressure among adults with high blood pressure,58.9
+2022,AL,Alabama,Bibb,Colorectal cancer screening among adults aged 45–75 years,58.9
+2022,AL,Alabama,Cherokee,Visited dentist or dental clinic in the past year among adults,58.5
+2022,AL,Alabama,Cherokee,Visited dentist or dental clinic in the past year among adults,58.5
+2022,AL,Alabama,Bullock,Colorectal cancer screening among adults aged 45–75 years,58.2
+2022,AL,Alabama,Bullock,Colorectal cancer screening among adults aged 45–75 years,58.2
+2023,US,United States,nan,Taking medicine to control high blood pressure among adults with high blood pressure,57.5
+2023,US,United States,,Taking medicine to control high blood pressure among adults with high blood pressure,57.5
+2023,US,United States,nan,Taking medicine to control high blood pressure among adults with high blood pressure,57.5
+2023,US,United States,nan,Taking medicine to control high blood pressure among adults with high blood pressure,57.5
+2022,AL,Alabama,Cherokee,Visited dentist or dental clinic in the past year among adults,56.7
+2022,AL,Alabama,Cherokee,Visited dentist or dental clinic in the past year among adults,56.7
+2022,AL,Alabama,Calhoun,Visited dentist or dental clinic in the past year among adults,56.7
+2022,AL,Alabama,Calhoun,Visited dentist or dental clinic in the past year among adults,56.7
+2022,AL,Alabama,Barbour,Colorectal cancer screening among adults aged 45–75 years,56.6
+2022,AL,Alabama,Barbour,Colorectal cancer screening among adults aged 45–75 years,56.6
+2023,AL,Alabama,Bullock,High blood pressure among adults,56.6
+2023,AL,Alabama,Bullock,High blood pressure among adults,56.6
+2022,AL,Alabama,Calhoun,Visited dentist or dental clinic in the past year among adults,55.8
+2022,AL,Alabama,Calhoun,Visited dentist or dental clinic in the past year among adults,55.8
+2022,AL,Alabama,Blount,Visited dentist or dental clinic in the past year among adults,54.9
+2022,AL,Alabama,Blount,Visited dentist or dental clinic in the past year among adults,54.9
+2022,US,United States,nan,Colorectal cancer screening among adults aged 45–75 years,54.1
+2022,US,United States,nan,Colorectal cancer screening among adults aged 45–75 years,54.1
+2022,US,United States,nan,Colorectal cancer screening among adults aged 45–75 years,54.1
+2022,AL,Alabama,Blount,Visited dentist or dental clinic in the past year among adults,54.0
+2022,AL,Alabama,Blount,Visited dentist or dental clinic in the past year among adults,54.0
+2022,AL,Alabama,Bullock,Colorectal cancer screening among adults aged 45–75 years,53.6
+2022,AL,Alabama,Bullock,Colorectal cancer screening among adults aged 45–75 years,53.6
+2023,AL,Alabama,Choctaw,High blood pressure among adults,52.7
+2023,AL,Alabama,Choctaw,High blood pressure among adults,52.7
+2023,AL,Alabama,Bullock,High blood pressure among adults,52.4
+2023,AL,Alabama,Bullock,High blood pressure among adults,52.4
+2023,AL,Alabama,Bullock,Obesity among adults,51.3
+2023,AL,Alabama,Bullock,Obesity among adults,51.3
+2022,AL,Alabama,Bibb,Visited dentist or dental clinic in the past year among adults,51.2
+2022,AL,Alabama,Bibb,Visited dentist or dental clinic in the past year among adults,51.2
+2023,AL,Alabama,Butler,High blood pressure among adults,51.0
+2023,AL,Alabama,Bullock,Obesity among adults,51.0
+2023,AL,Alabama,Butler,High blood pressure among adults,51.0
+2023,AL,Alabama,Bullock,Obesity among adults,51.0
+2022,AL,Alabama,Bullock,Short sleep duration among adults,50.5
+2022,AL,Alabama,Bullock,Short sleep duration among adults,50.5
+2023,AL,Alabama,Barbour,High blood pressure among adults,50.2
+2022,AL,Alabama,Bibb,Visited dentist or dental clinic in the past year among adults,50.2
+2022,AL,Alabama,Bibb,Visited dentist or dental clinic in the past year among adults,50.2
+2023,AL,Alabama,Barbour,High blood pressure among adults,50.2
+2022,AL,Alabama,Butler,Visited dentist or dental clinic in the past year among adults,50.1
+2022,AL,Alabama,Butler,Visited dentist or dental clinic in the past year among adults,50.1
+2022,AL,Alabama,Bullock,Short sleep duration among adults,49.8
+2022,AL,Alabama,Bullock,Short sleep duration among adults,49.8
+2023,AL,Alabama,Bullock,Any disability among adults,49.7
+2023,AL,Alabama,Bullock,Any disability among adults,49.7
+2022,AL,Alabama,Choctaw,Visited dentist or dental clinic in the past year among adults,49.6
+2022,AL,Alabama,Choctaw,Visited dentist or dental clinic in the past year among adults,49.6
+2022,AL,Alabama,Choctaw,Visited dentist or dental clinic in the past year among adults,49.2
+2022,AL,Alabama,Choctaw,Visited dentist or dental clinic in the past year among adults,49.2
+2022,AL,Alabama,Chambers,Visited dentist or dental clinic in the past year among adults,49.0
+2022,AL,Alabama,Chambers,Visited dentist or dental clinic in the past year among adults,49.0
+2022,AL,Alabama,Butler,Visited dentist or dental clinic in the past year among adults,49.0
+2022,AL,Alabama,Butler,Visited dentist or dental clinic in the past year among adults,49.0
+2023,AL,Alabama,Chambers,High blood pressure among adults,48.7
+2023,AL,Alabama,Chambers,High blood pressure among adults,48.7
+2022,AL,Alabama,Chambers,Visited dentist or dental clinic in the past year among adults,48.3
+2022,AL,Alabama,Chambers,Visited dentist or dental clinic in the past year among adults,48.3
+2023,AL,Alabama,Bullock,Any disability among adults,47.9
+2023,AL,Alabama,Bullock,Any disability among adults,47.9
+2023,AL,Alabama,Barbour,Obesity among adults,47.1
+2023,AL,Alabama,Barbour,Obesity among adults,47.1
+2023,AL,Alabama,Barbour,Obesity among adults,46.8
+2023,AL,Alabama,Barbour,Obesity among adults,46.8
+2022,AL,Alabama,Barbour,Visited dentist or dental clinic in the past year among adults,46.3
+2023,AL,Alabama,Bibb,High blood pressure among adults,46.3
+2023,AL,Alabama,Bibb,High blood pressure among adults,46.3
+2022,AL,Alabama,Barbour,Visited dentist or dental clinic in the past year among adults,46.3
+2023,AL,Alabama,Cherokee,High cholesterol among adults who have ever been screened,45.9
+2023,AL,Alabama,Cherokee,High blood pressure among adults,45.9
+2023,AL,Alabama,Cherokee,High blood pressure among adults,45.9
+2023,AL,Alabama,Cherokee,High cholesterol among adults who have ever been screened,45.9
+2023,AL,Alabama,Barbour,High blood pressure among adults,45.4
+2023,AL,Alabama,Barbour,High blood pressure among adults,45.4
+2022,AL,Alabama,Barbour,Visited dentist or dental clinic in the past year among adults,45.3
+2022,AL,Alabama,Barbour,Visited dentist or dental clinic in the past year among adults,45.3
+2023,AL,Alabama,Butler,High blood pressure among adults,44.8
+2023,AL,Alabama,Calhoun,High blood pressure among adults,44.8
+2023,AL,Alabama,Calhoun,High blood pressure among adults,44.8
+2023,AL,Alabama,Butler,High blood pressure among adults,44.8
+2022,AL,Alabama,Barbour,Short sleep duration among adults,44.6
+2022,AL,Alabama,Barbour,Short sleep duration among adults,44.6
+2023,AL,Alabama,Barbour,Any disability among adults,44.4
+2023,AL,Alabama,Barbour,Any disability among adults,44.4
+2023,AL,Alabama,Choctaw,Any disability among adults,44.3
+2023,AL,Alabama,Choctaw,Any disability among adults,44.3
+2023,AL,Alabama,Bullock,No leisure-time physical activity among adults,44.2
+2023,AL,Alabama,Choctaw,High blood pressure among adults,44.2
+2023,AL,Alabama,Choctaw,High blood pressure among adults,44.2
+2023,AL,Alabama,Bullock,No leisure-time physical activity among adults,44.2
+2023,AL,Alabama,Bullock,Food insecurity in the past 12 months among adults,44.0
+2023,AL,Alabama,Bullock,Food insecurity in the past 12 months among adults,44.0
+2023,AL,Alabama,Bibb,Obesity among adults,43.9
+2023,AL,Alabama,Bibb,Obesity among adults,43.9
+2023,AL,Alabama,Baldwin,High blood pressure among adults,43.8
+2023,AL,Alabama,Baldwin,High blood pressure among adults,43.8
+2023,AL,Alabama,Bibb,Obesity among adults,43.7
+2023,AL,Alabama,Bibb,Obesity among adults,43.7
+2022,AL,Alabama,Butler,Short sleep duration among adults,43.6
+2022,AL,Alabama,Butler,Short sleep duration among adults,43.6
+2023,AL,Alabama,Butler,High cholesterol among adults who have ever been screened,43.4
+2023,AL,Alabama,Butler,High cholesterol among adults who have ever been screened,43.4
+2023,AL,Alabama,Chilton,High cholesterol among adults who have ever been screened,43.3
+2023,AL,Alabama,Chilton,High cholesterol among adults who have ever been screened,43.3
+2023,AL,Alabama,Bullock,High cholesterol among adults who have ever been screened,43.2
+2023,AL,Alabama,Bullock,High cholesterol among adults who have ever been screened,43.2
+2023,AL,Alabama,Chilton,High blood pressure among adults,43.1
+2023,AL,Alabama,Chilton,High blood pressure among adults,43.1
+2023,AL,Alabama,Barbour,High cholesterol among adults who have ever been screened,43.0
+2023,AL,Alabama,Barbour,High cholesterol among adults who have ever been screened,43.0
+2022,AL,Alabama,Barbour,Short sleep duration among adults,43.0
+2022,AL,Alabama,Barbour,Short sleep duration among adults,43.0
+2023,AL,Alabama,Bullock,Food insecurity in the past 12 months among adults,42.9
+2023,AL,Alabama,Bullock,Food insecurity in the past 12 months among adults,42.9
+2023,AL,Alabama,Chambers,High blood pressure among adults,42.8
+2022,AL,Alabama,Calhoun,Short sleep duration among adults,42.8
+2023,AL,Alabama,Baldwin,High cholesterol among adults who have ever been screened,42.8
+2023,AL,Alabama,Baldwin,High cholesterol among adults who have ever been screened,42.8
+2022,AL,Alabama,Calhoun,Short sleep duration among adults,42.8
+2023,AL,Alabama,Chambers,High blood pressure among adults,42.8
+2023,AL,Alabama,Bullock,No leisure-time physical activity among adults,42.7
+2023,AL,Alabama,Bullock,No leisure-time physical activity among adults,42.7
+2022,AL,Alabama,Chambers,Short sleep duration among adults,42.6
+2022,AL,Alabama,Chambers,Short sleep duration among adults,42.6
+2023,AL,Alabama,Bibb,High cholesterol among adults who have ever been screened,42.4
+2023,AL,Alabama,Bibb,High blood pressure among adults,42.4
+2023,AL,Alabama,Bibb,High cholesterol among adults who have ever been screened,42.4
+2023,AL,Alabama,Bibb,High blood pressure among adults,42.4
+2023,AL,Alabama,Blount,High cholesterol among adults who have ever been screened,42.2
+2023,AL,Alabama,Blount,High cholesterol among adults who have ever been screened,42.2
+2023,AL,Alabama,Butler,Any disability among adults,42.1
+2023,AL,Alabama,Butler,Any disability among adults,42.1
+2023,AL,Alabama,Barbour,Any disability among adults,42.0
+2023,AL,Alabama,Autauga,High blood pressure among adults,42.0
+2023,AL,Alabama,Autauga,High blood pressure among adults,42.0
+2023,AL,Alabama,Autauga,High blood pressure among adults,42.0
+2023,AL,Alabama,Barbour,Any disability among adults,42.0
+2023,AL,Alabama,Chambers,High cholesterol among adults who have ever been screened,41.8
+2023,AL,Alabama,Chambers,High cholesterol among adults who have ever been screened,41.8
+2022,AL,Alabama,Butler,Short sleep duration among adults,41.8
+2022,AL,Alabama,Butler,Short sleep duration among adults,41.8
+2023,AL,Alabama,Chambers,Obesity among adults,41.6
+2023,AL,Alabama,Chambers,Obesity among adults,41.6
+2022,AL,Alabama,Calhoun,Short sleep duration among adults,41.6
+2022,AL,Alabama,Calhoun,Short sleep duration among adults,41.6
+2023,AL,Alabama,Calhoun,High blood pressure among adults,41.5
+2023,AL,Alabama,Chambers,Obesity among adults,41.5
+2023,AL,Alabama,Calhoun,High blood pressure among adults,41.5
+2023,AL,Alabama,Chambers,Obesity among adults,41.5
+2022,AL,Alabama,Chambers,Short sleep duration among adults,41.4
+2022,AL,Alabama,Chambers,Short sleep duration among adults,41.4
+2022,AL,Alabama,Bibb,Short sleep duration among adults,41.4
+2022,AL,Alabama,Bibb,Short sleep duration among adults,41.4
+2023,AL,Alabama,Bibb,Any disability among adults,41.3
+2023,AL,Alabama,Autauga,High cholesterol among adults who have ever been screened,41.3
+2023,AL,Alabama,Autauga,High cholesterol among adults who have ever been screened,41.3
+2023,AL,Alabama,Bibb,Any disability among adults,41.3
+2023,AL,Alabama,Blount,High blood pressure among adults,41.2
+2023,AL,Alabama,Blount,High blood pressure among adults,41.2
+2023,AL,Alabama,Chambers,Any disability among adults,41.0
+2023,AL,Alabama,Chambers,Any disability among adults,41.0
+2023,AL,Alabama,Cherokee,Any disability among adults,40.9
+2023,AL,Alabama,Cherokee,Any disability among adults,40.9
+2023,AL,Alabama,Butler,Obesity among adults,40.7
+2023,AL,Alabama,Butler,Obesity among adults,40.7
+2022,AL,Alabama,Bibb,Short sleep duration among adults,40.6
+2022,AL,Alabama,Bibb,Short sleep duration among adults,40.6
+2023,AL,Alabama,Choctaw,Any disability among adults,40.5
+2023,AL,Alabama,Choctaw,Any disability among adults,40.5
+2023,AL,Alabama,Calhoun,High cholesterol among adults who have ever been screened,40.4
+2023,AL,Alabama,Calhoun,High cholesterol among adults who have ever been screened,40.4
+2023,AL,Alabama,Butler,Obesity among adults,40.4
+2023,AL,Alabama,Bullock,Received food stamps in the past 12 months among adults,40.4
+2023,AL,Alabama,Bullock,Received food stamps in the past 12 months among adults,40.4
+2023,AL,Alabama,Butler,Obesity among adults,40.4
+2023,AL,Alabama,Bullock,Loneliness among adults,40.2
+2023,AL,Alabama,Bullock,Loneliness among adults,40.2
+2023,AL,Alabama,Chilton,Obesity among adults,40.0
+2023,AL,Alabama,Chilton,Obesity among adults,40.0
+2023,AL,Alabama,Bullock,Received food stamps in the past 12 months among adults,39.8
+2023,AL,Alabama,Autauga,Obesity among adults,39.8
+2023,AL,Alabama,Autauga,Obesity among adults,39.8
+2023,AL,Alabama,Chilton,Obesity among adults,39.8
+2023,AL,Alabama,Barbour,Loneliness among adults,39.8
+2023,AL,Alabama,Chilton,Obesity among adults,39.8
+2023,AL,Alabama,Bullock,Received food stamps in the past 12 months among adults,39.8
+2023,AL,Alabama,Barbour,Loneliness among adults,39.8
+2023,AL,Alabama,Bibb,Any disability among adults,39.6
+2023,AL,Alabama,Bibb,Any disability among adults,39.6
+2023,AL,Alabama,Cherokee,Obesity among adults,39.5
+2023,AL,Alabama,Cherokee,Obesity among adults,39.5
+2022,AL,Alabama,Bullock,Visited dentist or dental clinic in the past year among adults,39.5
+2023,AL,Alabama,Autauga,Obesity among adults,39.5
+2023,AL,Alabama,Autauga,Obesity among adults,39.5
+2022,AL,Alabama,Bullock,Visited dentist or dental clinic in the past year among adults,39.5
+2023,AL,Alabama,Butler,Loneliness among adults,39.4
+2023,AL,Alabama,Butler,Loneliness among adults,39.4
+2023,AL,Alabama,Bullock,Fair or poor self-rated health status among adults,39.4
+2023,AL,Alabama,Bullock,Fair or poor self-rated health status among adults,39.4
+2023,AL,Alabama,Cherokee,Obesity among adults,39.3
+2023,AL,Alabama,Butler,Any disability among adults,39.3
+2023,AL,Alabama,Cherokee,Obesity among adults,39.3
+2023,AL,Alabama,Butler,Any disability among adults,39.3
+2023,AL,Alabama,Chilton,Any disability among adults,39.2
+2023,AL,Alabama,Chilton,Any disability among adults,39.2
+2023,AL,Alabama,Calhoun,Obesity among adults,39.1
+2023,AL,Alabama,Bullock,Loneliness among adults,39.1
+2023,AL,Alabama,Bullock,Loneliness among adults,39.1
+2023,AL,Alabama,Calhoun,Obesity among adults,39.1
+2023,AL,Alabama,Calhoun,Any disability among adults,39.0
+2023,AL,Alabama,Calhoun,Any disability among adults,39.0
+2023,AL,Alabama,Chilton,High blood pressure among adults,39.0
+2022,AL,Alabama,Bullock,Visited dentist or dental clinic in the past year among adults,39.0
+2022,AL,Alabama,Bullock,Visited dentist or dental clinic in the past year among adults,39.0
+2023,AL,Alabama,Chilton,High blood pressure among adults,39.0
+2023,AL,Alabama,Calhoun,Obesity among adults,38.6
+2023,AL,Alabama,Calhoun,Obesity among adults,38.6
+2023,AL,Alabama,Barbour,Loneliness among adults,38.5
+2023,AL,Alabama,Barbour,Loneliness among adults,38.5
+2023,AL,Alabama,Chambers,Any disability among adults,38.4
+2023,AL,Alabama,Choctaw,Arthritis among adults,38.4
+2023,AL,Alabama,Choctaw,Arthritis among adults,38.4
+2023,AL,Alabama,Chambers,Any disability among adults,38.4
+2023,AL,Alabama,Autauga,High blood pressure among adults,38.2
+2023,AL,Alabama,Autauga,High blood pressure among adults,38.2
+2023,AL,Alabama,Autauga,High blood pressure among adults,38.2
+2023,AL,Alabama,Blount,Any disability among adults,37.9
+2023,AL,Alabama,Blount,Any disability among adults,37.9
+2023,AL,Alabama,Bullock,Fair or poor self-rated health status among adults,37.8
+2023,AL,Alabama,Bullock,Fair or poor self-rated health status among adults,37.8
+2023,AL,Alabama,Chilton,High cholesterol among adults who have ever been screened,37.7
+2023,AL,Alabama,Chilton,High cholesterol among adults who have ever been screened,37.7
+2022,AL,Alabama,Autauga,Short sleep duration among adults,37.7
+2022,AL,Alabama,Autauga,Short sleep duration among adults,37.7
+2023,AL,Alabama,Chambers,Loneliness among adults,37.6
+2023,AL,Alabama,Chilton,Any disability among adults,37.6
+2022,AL,Alabama,Blount,Short sleep duration among adults,37.6
+2023,AL,Alabama,Chambers,Loneliness among adults,37.6
+2023,AL,Alabama,Chilton,Any disability among adults,37.6
+2022,AL,Alabama,Blount,Short sleep duration among adults,37.6
+2023,AL,Alabama,Butler,Loneliness among adults,37.5
+2023,AL,Alabama,Cherokee,High blood pressure among adults,37.5
+2023,AL,Alabama,Cherokee,High blood pressure among adults,37.5
+2023,AL,Alabama,Calhoun,Loneliness among adults,37.5
+2023,AL,Alabama,Calhoun,Loneliness among adults,37.5
+2023,AL,Alabama,Butler,Loneliness among adults,37.5
+2023,US,United States,nan,High cholesterol among adults who have ever been screened,37.4
+2023,AL,Alabama,Chilton,Loneliness among adults,37.4
+2022,AL,Alabama,Cherokee,Short sleep duration among adults,37.4
+2023,AL,Alabama,Chilton,Loneliness among adults,37.4
+2022,AL,Alabama,Cherokee,Short sleep duration among adults,37.4
+2023,US,United States,nan,High cholesterol among adults who have ever been screened,37.4
+2023,AL,Alabama,Cherokee,Any disability among adults,37.4
+2023,AL,Alabama,Cherokee,Any disability among adults,37.4
+2023,US,United States,nan,High cholesterol among adults who have ever been screened,37.4
+2022,AL,Alabama,Autauga,Short sleep duration among adults,37.3
+2023,AL,Alabama,Calhoun,Any disability among adults,37.3
+2022,AL,Alabama,Autauga,Short sleep duration among adults,37.3
+2023,AL,Alabama,Calhoun,Any disability among adults,37.3
+2023,AL,Alabama,Bibb,Loneliness among adults,37.2
+2023,AL,Alabama,Bibb,Loneliness among adults,37.2
+2023,AL,Alabama,Bullock,High cholesterol among adults who have ever been screened,37.1
+2023,AL,Alabama,Butler,No leisure-time physical activity among adults,37.1
+2023,AL,Alabama,Bullock,High cholesterol among adults who have ever been screened,37.1
+2023,AL,Alabama,Butler,No leisure-time physical activity among adults,37.1
+2023,AL,Alabama,Baldwin,High blood pressure among adults,37.0
+2023,AL,Alabama,Baldwin,High blood pressure among adults,37.0
+2023,AL,Alabama,Calhoun,Loneliness among adults,36.8
+2022,US,United States,nan,Short sleep duration among adults,36.8
+2023,AL,Alabama,Calhoun,Loneliness among adults,36.8
+2022,US,United States,nan,Short sleep duration among adults,36.8
+2023,AL,Alabama,Cherokee,High cholesterol among adults who have ever been screened,36.8
+2022,US,United States,nan,Short sleep duration among adults,36.8
+2023,AL,Alabama,Cherokee,High cholesterol among adults who have ever been screened,36.8
+2023,AL,Alabama,Bibb,High cholesterol among adults who have ever been screened,36.7
+2023,AL,Alabama,Bibb,High cholesterol among adults who have ever been screened,36.7
+2023,AL,Alabama,Barbour,High cholesterol among adults who have ever been screened,36.5
+2022,AL,Alabama,Blount,Short sleep duration among adults,36.5
+2022,AL,Alabama,Blount,Short sleep duration among adults,36.5
+2023,AL,Alabama,Barbour,High cholesterol among adults who have ever been screened,36.5
+2022,AL,Alabama,Baldwin,Short sleep duration among adults,36.4
+2022,AL,Alabama,Baldwin,Short sleep duration among adults,36.4
+2023,AL,Alabama,Autauga,High cholesterol among adults who have ever been screened,36.3
+2023,AL,Alabama,Chilton,Loneliness among adults,36.3
+2023,AL,Alabama,Chilton,Loneliness among adults,36.3
+2023,AL,Alabama,Autauga,High cholesterol among adults who have ever been screened,36.3
+2023,AL,Alabama,Barbour,No leisure-time physical activity among adults,36.2
+2023,AL,Alabama,Barbour,No leisure-time physical activity among adults,36.2
+2023,AL,Alabama,Blount,Obesity among adults,36.1
+2023,AL,Alabama,Blount,Obesity among adults,36.1
+2023,AL,Alabama,Blount,Obesity among adults,36.0
+2022,US,United States,nan,Short sleep duration among adults,36.0
+2022,US,United States,nan,Short sleep duration among adults,36.0
+2023,AL,Alabama,Blount,High blood pressure among adults,36.0
+2023,AL,Alabama,Blount,High blood pressure among adults,36.0
+2023,AL,Alabama,Bibb,Loneliness among adults,36.0
+2023,AL,Alabama,Blount,Obesity among adults,36.0
+2022,US,United States,nan,Short sleep duration among adults,36.0
+2023,AL,Alabama,Bibb,Loneliness among adults,36.0
+2023,AL,Alabama,Butler,High cholesterol among adults who have ever been screened,36.0
+2023,AL,Alabama,Butler,High cholesterol among adults who have ever been screened,36.0
+2023,AL,Alabama,Chambers,Loneliness among adults,35.9
+2023,AL,Alabama,Cherokee,Arthritis among adults,35.9
+2023,AL,Alabama,Cherokee,Arthritis among adults,35.9
+2023,AL,Alabama,Chambers,Loneliness among adults,35.9
+2023,AL,Alabama,Blount,Loneliness among adults,35.8
+2023,AL,Alabama,Blount,Any disability among adults,35.8
+2023,AL,Alabama,Blount,Loneliness among adults,35.8
+2023,AL,Alabama,Blount,Any disability among adults,35.8
+2023,AL,Alabama,Blount,High cholesterol among adults who have ever been screened,35.7
+2023,AL,Alabama,Blount,High cholesterol among adults who have ever been screened,35.7
+2023,AL,Alabama,Cherokee,Loneliness among adults,35.6
+2023,AL,Alabama,Cherokee,Loneliness among adults,35.6
+2022,AL,Alabama,Cherokee,Short sleep duration among adults,35.4
+2023,AL,Alabama,Baldwin,High cholesterol among adults who have ever been screened,35.4
+2023,AL,Alabama,Calhoun,High cholesterol among adults who have ever been screened,35.4
+2022,AL,Alabama,Cherokee,Short sleep duration among adults,35.4
+2023,AL,Alabama,Baldwin,High cholesterol among adults who have ever been screened,35.4
+2023,AL,Alabama,Calhoun,High cholesterol among adults who have ever been screened,35.4
+2023,AL,Alabama,Bullock,Arthritis among adults,35.3
+2022,AL,Alabama,Bullock,All teeth lost among adults aged >=65 years,35.3
+2022,AL,Alabama,Bullock,All teeth lost among adults aged >=65 years,35.3
+2023,AL,Alabama,Bullock,Arthritis among adults,35.3
+2023,AL,Alabama,Butler,Arthritis among adults,35.2
+2023,AL,Alabama,Baldwin,Obesity among adults,35.2
+2023,AL,Alabama,Baldwin,Obesity among adults,35.2
+2023,AL,Alabama,Butler,Arthritis among adults,35.2
+2022,AL,Alabama,Bullock,All teeth lost among adults aged >=65 years,35.1
+2023,AL,Alabama,Butler,No leisure-time physical activity among adults,35.1
+2023,AL,Alabama,Butler,No leisure-time physical activity among adults,35.1
+2022,AL,Alabama,Bullock,All teeth lost among adults aged >=65 years,35.1
+2023,AL,Alabama,Baldwin,Obesity among adults,35.0
+2023,AL,Alabama,Baldwin,Obesity among adults,35.0
+2022,AL,Alabama,Baldwin,Short sleep duration among adults,34.8
+2022,AL,Alabama,Baldwin,Short sleep duration among adults,34.8
+2023,AL,Alabama,Chambers,High cholesterol among adults who have ever been screened,34.8
+2023,AL,Alabama,Chambers,High cholesterol among adults who have ever been screened,34.8
+2023,AL,Alabama,Barbour,No leisure-time physical activity among adults,34.5
+2023,AL,Alabama,Barbour,No leisure-time physical activity among adults,34.5
+2023,AL,Alabama,Bullock,Lack of social and emotional support among adults,34.4
+2023,US,United States,nan,High blood pressure among adults,34.4
+2023,AL,Alabama,Blount,Loneliness among adults,34.4
+2023,US,United States,nan,High blood pressure among adults,34.4
+2023,US,United States,nan,High blood pressure among adults,34.4
+2023,US,United States,,High blood pressure among adults,34.4
+2023,AL,Alabama,Blount,Loneliness among adults,34.4
+2023,AL,Alabama,Bullock,Lack of social and emotional support among adults,34.4
+2023,AL,Alabama,Chambers,No leisure-time physical activity among adults,34.3
+2023,AL,Alabama,Chambers,No leisure-time physical activity among adults,34.3
+2023,AL,Alabama,Chambers,Arthritis among adults,34.2
+2023,AL,Alabama,Barbour,Arthritis among adults,34.2
+2023,AL,Alabama,Chambers,Arthritis among adults,34.2
+2023,AL,Alabama,Barbour,Arthritis among adults,34.2
+2022,AL,Alabama,Chilton,Short sleep duration among adults,34.1
+2022,AL,Alabama,Chilton,Short sleep duration among adults,34.1
+2023,AL,Alabama,Baldwin,Any disability among adults,33.9
+2023,AL,Alabama,Baldwin,Any disability among adults,33.9
+2023,AL,Alabama,Autauga,Any disability among adults,33.8
+2023,AL,Alabama,Autauga,Any disability among adults,33.8
+2023,AL,Alabama,Autauga,Loneliness among adults,33.7
+2023,AL,Alabama,Autauga,Loneliness among adults,33.7
+2023,AL,Alabama,Bullock,Lack of social and emotional support among adults,33.6
+2022,AL,Alabama,Chilton,Short sleep duration among adults,33.6
+2022,AL,Alabama,Chilton,Short sleep duration among adults,33.6
+2023,AL,Alabama,Bullock,Lack of social and emotional support among adults,33.6
+2023,AL,Alabama,Baldwin,Loneliness among adults,33.3
+2023,AL,Alabama,Bibb,No leisure-time physical activity among adults,33.3
+2023,AL,Alabama,Cherokee,Loneliness among adults,33.3
+2023,AL,Alabama,Bibb,No leisure-time physical activity among adults,33.3
+2023,AL,Alabama,Cherokee,Loneliness among adults,33.3
+2023,AL,Alabama,Baldwin,Loneliness among adults,33.3
+2023,US,United States,nan,Loneliness among adults,33.2
+2023,US,United States,nan,Loneliness among adults,33.2
+2023,US,United States,nan,Loneliness among adults,33.2
+2023,US,United States,nan,Obesity among adults,32.9
+2023,US,United States,nan,Obesity among adults,32.9
+2023,AL,Alabama,Baldwin,Arthritis among adults,32.9
+2023,US,United States,nan,Obesity among adults,32.9
+2023,AL,Alabama,Baldwin,Arthritis among adults,32.9
+2023,US,United States,nan,Obesity among adults,32.8
+2023,US,United States,nan,Obesity among adults,32.8
+2023,US,United States,nan,Obesity among adults,32.8
+2023,AL,Alabama,Autauga,Loneliness among adults,32.6
+2023,AL,Alabama,Autauga,Loneliness among adults,32.6
+2023,AL,Alabama,Chambers,No leisure-time physical activity among adults,32.5
+2023,AL,Alabama,Chambers,No leisure-time physical activity among adults,32.5
+2023,AL,Alabama,Autauga,Any disability among adults,32.4
+2023,AL,Alabama,Autauga,Any disability among adults,32.4
+2023,AL,Alabama,Bibb,Arthritis among adults,32.3
+2023,AL,Alabama,Bibb,Arthritis among adults,32.3
+2023,US,United States,nan,High cholesterol among adults who have ever been screened,32.2
+2023,US,United States,nan,High cholesterol among adults who have ever been screened,32.2
+2023,US,United States,nan,High cholesterol among adults who have ever been screened,32.2
+2023,AL,Alabama,Barbour,Food insecurity in the past 12 months among adults,32.1
+2023,AL,Alabama,Barbour,Food insecurity in the past 12 months among adults,32.1
+2023,US,United States,nan,Loneliness among adults,32.0
+2023,US,United States,nan,Loneliness among adults,32.0
+2023,US,United States,nan,Loneliness among adults,32.0
+2023,AL,Alabama,Calhoun,No leisure-time physical activity among adults,31.9
+2023,AL,Alabama,Bibb,No leisure-time physical activity among adults,31.9
+2023,AL,Alabama,Calhoun,No leisure-time physical activity among adults,31.9
+2023,AL,Alabama,Bibb,No leisure-time physical activity among adults,31.9
+2023,AL,Alabama,Blount,Arthritis among adults,31.8
+2023,AL,Alabama,Blount,Arthritis among adults,31.8
+2023,AL,Alabama,Barbour,Lack of social and emotional support among adults,31.7
+2023,AL,Alabama,Barbour,Lack of social and emotional support among adults,31.7
+2023,AL,Alabama,Calhoun,Arthritis among adults,31.6
+2023,AL,Alabama,Calhoun,Arthritis among adults,31.6
+2023,AL,Alabama,Cherokee,No leisure-time physical activity among adults,31.4
+2023,AL,Alabama,Baldwin,Loneliness among adults,31.4
+2023,AL,Alabama,Chilton,Arthritis among adults,31.4
+2023,AL,Alabama,Barbour,Fair or poor self-rated health status among adults,31.4
+2023,AL,Alabama,Baldwin,Any disability among adults,31.4
+2023,AL,Alabama,Barbour,Fair or poor self-rated health status among adults,31.4
+2023,AL,Alabama,Baldwin,Loneliness among adults,31.4
+2023,AL,Alabama,Baldwin,Any disability among adults,31.4
+2023,AL,Alabama,Chilton,Arthritis among adults,31.4
+2023,AL,Alabama,Cherokee,No leisure-time physical activity among adults,31.4
+2023,AL,Alabama,Bullock,Housing insecurity in the past 12 months among adults,31.2
+2023,AL,Alabama,Bullock,Housing insecurity in the past 12 months among adults,31.2
+2023,AL,Alabama,Chilton,No leisure-time physical activity among adults,31.1
+2023,AL,Alabama,Chilton,No leisure-time physical activity among adults,31.1
+2023,AL,Alabama,Calhoun,No leisure-time physical activity among adults,31.0
+2023,AL,Alabama,Calhoun,No leisure-time physical activity among adults,31.0
+2023,US,United States,nan,High blood pressure among adults,30.7
+2023,US,United States,nan,High blood pressure among adults,30.7
+2023,US,United States,,High blood pressure among adults,30.7
+2023,US,United States,nan,High blood pressure among adults,30.7
+2023,AL,Alabama,Barbour,Lack of social and emotional support among adults,30.6
+2023,AL,Alabama,Barbour,Lack of social and emotional support among adults,30.6
+2023,AL,Alabama,Bullock,Arthritis among adults,30.6
+2023,AL,Alabama,Bullock,Arthritis among adults,30.6
+2023,AL,Alabama,Barbour,Food insecurity in the past 12 months among adults,30.5
+2023,AL,Alabama,Barbour,Food insecurity in the past 12 months among adults,30.5
+2023,AL,Alabama,Autauga,Arthritis among adults,30.0
+2023,AL,Alabama,Chilton,No leisure-time physical activity among adults,30.0
+2023,AL,Alabama,Autauga,Arthritis among adults,30.0
+2023,AL,Alabama,Autauga,Arthritis among adults,30.0
+2023,US,United States,nan,Any disability among adults,30.0
+2023,AL,Alabama,Chilton,No leisure-time physical activity among adults,30.0
+2023,US,United States,nan,Any disability among adults,30.0
+2023,US,United States,nan,Any disability among adults,30.0

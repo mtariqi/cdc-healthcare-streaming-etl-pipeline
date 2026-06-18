@@ -1,0 +1,81 @@
+year,stateabbr,measure,avg_value,min_value,max_value,record_count
+2023,US,Cholesterol screening among adults,86.55,85.6,87.5,6
+2023,AL,Cholesterol screening among adults,84.16,80.2,87.9,50
+2023,AL,Visits to doctor for routine checkup within the past year among adults,79.63,76.3,83.3,50
+2023,US,Visits to doctor for routine checkup within the past year among adults,76.7,75.7,77.7,6
+2022,US,Mammography use among women aged 50-74 years,76.25,76.0,76.5,6
+2022,AL,Mammography use among women aged 50-74 years,74.85,69.2,80.9,44
+2023,AL,Taking medicine to control high blood pressure among adults with high blood pressure,70.61,58.9,82.8,50
+2023,US,Taking medicine to control high blood pressure among adults with high blood pressure,67.25,57.5,77.0,8
+2022,US,Visited dentist or dental clinic in the past year among adults,63.65,63.4,63.9,6
+2022,AL,Colorectal cancer screening among adults aged 45–75 years,62.6,53.6,69.6,48
+2022,US,Colorectal cancer screening among adults aged 45–75 years,60.2,54.1,66.3,6
+2022,AL,Visited dentist or dental clinic in the past year among adults,52.98,39.0,63.7,48
+2023,AL,High blood pressure among adults,44.3,36.0,56.6,50
+2023,AL,Obesity among adults,41.18,35.0,51.3,44
+2022,AL,Short sleep duration among adults,40.2,33.6,50.5,44
+2023,AL,Any disability among adults,39.46,31.4,49.7,48
+2023,AL,High cholesterol among adults who have ever been screened,39.46,34.8,45.9,44
+2022,US,Short sleep duration among adults,36.4,36.0,36.8,6
+2023,AL,Loneliness among adults,36.33,31.4,40.2,44
+2023,US,High cholesterol among adults who have ever been screened,34.8,32.2,37.4,6
+2023,US,Obesity among adults,32.85,32.8,32.9,6
+2023,US,Loneliness among adults,32.6,32.0,33.2,6
+2023,US,High blood pressure among adults,32.55,30.7,34.4,8
+2023,AL,No leisure-time physical activity among adults,32.04,23.7,44.2,44
+2023,AL,Arthritis among adults,30.72,26.3,38.4,50
+2023,US,Any disability among adults,29.15,28.3,30.0,6
+2023,AL,Lack of social and emotional support among adults,26.83,20.9,34.4,48
+2023,AL,Fair or poor self-rated health status among adults,25.93,17.7,39.4,44
+2023,AL,Depression among adults,24.11,21.1,27.1,48
+2023,US,No leisure-time physical activity among adults,24.1,23.7,24.5,6
+2023,US,Lack of social and emotional support among adults,23.7,23.3,24.1,6
+2023,US,Arthritis among adults,23.65,21.9,25.4,8
+2023,AL,Food insecurity in the past 12 months among adults,23.61,13.2,44.0,48
+2023,US,Depression among adults,20.45,20.2,20.7,6
+2022,AL,All teeth lost among adults aged >=65 years,20.21,10.9,35.3,44
+2023,US,Fair or poor self-rated health status among adults,18.75,18.3,19.2,6
+2023,AL,Frequent mental distress among adults,18.69,15.1,21.3,44
+2023,AL,Mobility disability among adults,18.42,12.3,28.6,44
+2023,AL,Cognitive disability among adults,18.2,14.0,23.2,48
+2023,AL,Received food stamps in the past 12 months among adults,18.18,8.5,40.4,44
+2023,AL,Current cigarette smoking among adults,18.02,13.0,24.9,48
+2023,AL,Housing insecurity in the past 12 months among adults,16.71,9.7,31.2,44
+2023,US,Frequent mental distress among adults,15.95,15.6,16.3,6
+2023,US,Binge drinking among adults,15.9,15.2,16.6,8
+2023,AL,Frequent physical distress among adults,15.45,11.9,19.7,44
+2023,AL,Diagnosed diabetes among adults,15.37,10.4,24.6,48
+2023,US,Food insecurity in the past 12 months among adults,15.15,14.7,15.6,6
+2023,AL,Binge drinking among adults,14.02,10.6,17.1,50
+2023,US,Cognitive disability among adults,13.9,13.7,14.1,6
+2023,US,Mobility disability among adults,12.6,11.7,13.5,6
+2023,US,Frequent physical distress among adults,12.45,12.1,12.8,6
+2022,US,All teeth lost among adults aged >=65 years,12.4,12.2,12.6,6
+2023,US,Housing insecurity in the past 12 months among adults,12.3,11.7,12.9,6
+2023,AL,Current lack of health insurance among adults aged 18-64 years,11.75,8.3,18.2,50
+2023,AL,Utility services shut-off threat in the past 12 months among adults,11.72,6.4,24.1,44
+2023,AL,Lack of reliable transportation in the past 12 months among adults,11.64,6.8,21.8,44
+2023,US,Current cigarette smoking among adults,11.5,11.4,11.6,6
+2023,US,Received food stamps in the past 12 months among adults,11.5,11.2,11.8,6
+2023,US,Current lack of health insurance among adults aged 18-64 years,11.25,11.0,11.5,8
+2023,US,Diagnosed diabetes among adults,11.15,10.3,12.0,6
+2023,AL,Independent living disability among adults,11.15,7.8,16.7,44
+2023,AL,Current asthma among adults,10.45,9.3,11.5,50
+2023,US,Current asthma among adults,9.8,9.8,9.8,6
+2023,AL,Chronic obstructive pulmonary disease among adults,8.99,6.0,13.0,48
+2023,AL,Hearing disability among adults,8.54,6.9,11.0,44
+2023,US,Lack of reliable transportation in the past 12 months among adults,8.0,7.7,8.3,6
+2023,US,Independent living disability among adults,7.75,7.6,7.9,6
+2023,US,Utility services shut-off threat in the past 12 months among adults,7.75,7.4,8.1,6
+2023,AL,Cancer (non-skin) or melanoma among adults,7.67,5.2,10.6,50
+2023,AL,Coronary heart disease among adults,7.58,5.5,10.7,50
+2023,US,Cancer (non-skin) or melanoma among adults,7.25,6.6,7.9,6
+2023,AL,Vision disability among adults,6.88,4.3,12.7,44
+2023,US,Hearing disability among adults,6.25,5.8,6.7,6
+2023,US,Coronary heart disease among adults,5.85,5.3,6.4,6
+2023,US,Chronic obstructive pulmonary disease among adults,5.75,5.3,6.2,6
+2023,US,Vision disability among adults,5.35,5.2,5.5,6
+2023,AL,Self-care disability among adults,5.28,3.2,10.0,44
+2023,AL,Stroke among adults,4.38,2.9,7.3,44
+2023,US,Self-care disability among adults,3.6,3.4,3.8,6
+2023,US,Stroke among adults,3.15,2.9,3.4,6
