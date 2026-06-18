@@ -1,4 +1,12 @@
-This is the version I would put on GitHub. It reads like a professional Data Engineering / MLOps portfolio project and aligns directly with the job description you shared.
+# CDC Healthcare Streaming ETL Pipeline
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+![Airflow](https://img.shields.io/badge/Airflow-Orchestration-red)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
+![CI/CD](https://img.shields.io/badge/GitHub_Actions-CI/CD-green)
+![Healthcare](https://img.shields.io/badge/Domain-Healthcare-success)
 
 # CDC Healthcare Streaming ETL Pipeline
 
