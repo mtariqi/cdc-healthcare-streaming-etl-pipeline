@@ -8,8 +8,6 @@
 ![CI/CD](https://img.shields.io/badge/GitHub_Actions-CI/CD-green)
 ![Healthcare](https://img.shields.io/badge/Domain-Healthcare-success)
 
-# CDC Healthcare Streaming ETL Pipeline
-
 ## Overview
 
 This project demonstrates an end-to-end healthcare data engineering solution that ingests public health data from the CDC Open Data API, processes it through a scalable ETL pipeline, validates data quality, stores curated data in PostgreSQL, and generates downstream analytics, monitoring, and machine learning outputs.
