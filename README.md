@@ -81,31 +81,29 @@ The dataset contains aggregated public health information and does not contain p
 ![Airflow DAG](docs/images/airflow_dag.png)
 ## Architecture
 ```text
-CDC Public Health API
-            │
-            ▼
-    Python Extraction
-            │
-            ▼
-      Raw JSON Layer
-            │
-            ▼
- Data Transformation Layer
-            │
-            ▼
- Data Quality Validation
-            │
-            ▼
- Curated Analytics Layer
-            │
-            ▼
-      PostgreSQL
-            │
-    ┌───────┼────────┐
-    ▼       ▼        ▼
- Business  Public    ML
-Intelligence Health  Models
-           Monitoring
+## Architecture
+
+```mermaid
+flowchart TD
+    A[CDC Public Health API]
+    B[Python Extraction]
+    C[Raw JSON Layer]
+    D[Data Transformation]
+    E[Data Validation]
+    F[PostgreSQL]
+    G[Business Intelligence]
+    H[Public Health Monitoring]
+    I[Machine Learning]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    F --> H
+    F --> I
+```
 ```
 
 ---
