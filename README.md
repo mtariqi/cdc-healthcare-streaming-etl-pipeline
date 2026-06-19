@@ -45,6 +45,9 @@ flowchart TD
     F --> I
 ```
 
+### Architecture Diagram
+![Architecture](docs/images/architecture.png)
+
 ### Airflow DAG
 ![Airflow DAG](docs/images/airflow_dag.png)
 
